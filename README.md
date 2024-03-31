@@ -13,8 +13,7 @@
 
 <img src="https://raw.githubusercontent.com/Indrajit-Banerjee7/Indrajit-Banerjee7/5d704fcb35bb05b237ad60e917dad8f7bcd9be28/snake.svg" alt="Snake animation" />
 
+
 ###
-###
-![snake gif]([snake.svg](https://github.com/Indrajit-Banerjee7/Indrajit-Banerjee7/blob/output/snake.svg))
 
 
